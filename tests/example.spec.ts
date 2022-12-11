@@ -19,7 +19,7 @@ test('homepage has title and links to intro page', async ({ page }) => {
   await expect(page).toHaveURL(/.*intro/);
 });
 
-test.only('my first test', async ({ page }) => {
+test('my first test', async ({ page }) => {
   await page.goto('https://playwright.dev/');
 
   await page.getByRole('link', { name: 'Community' }).click();
