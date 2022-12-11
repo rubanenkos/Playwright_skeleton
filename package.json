@@ -1,0 +1,21 @@
+{
+  "name": "playwright_skeleton",
+  "version": "1.0.0",
+  "description": "Playwright skeleton",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubanenkos/Playwright_skeleton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubanenkos/Playwright_skeleton/issues"
+  },
+  "homepage": "https://github.com/rubanenkos/Playwright_skeleton#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
